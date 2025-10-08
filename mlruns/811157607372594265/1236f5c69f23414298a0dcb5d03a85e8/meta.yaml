@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/811157607372594265/1236f5c69f23414298a0dcb5d03a85e8/artifacts
+end_time: 1759911476311
+entry_point_name: ''
+experiment_id: '811157607372594265'
+lifecycle_stage: active
+run_id: 1236f5c69f23414298a0dcb5d03a85e8
+run_name: Execution_2_ForetAleatoire_Optimise
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759911470511
+status: 3
+tags: []
+user_id: DELL

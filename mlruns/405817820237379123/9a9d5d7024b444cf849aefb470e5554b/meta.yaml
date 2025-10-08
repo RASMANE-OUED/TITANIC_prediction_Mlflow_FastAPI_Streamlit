@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/405817820237379123/9a9d5d7024b444cf849aefb470e5554b/artifacts
+end_time: 1759816968101
+entry_point_name: ''
+experiment_id: '405817820237379123'
+lifecycle_stage: active
+run_id: 9a9d5d7024b444cf849aefb470e5554b
+run_name: Run_4_DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759816955724
+status: 3
+tags: []
+user_id: DELL

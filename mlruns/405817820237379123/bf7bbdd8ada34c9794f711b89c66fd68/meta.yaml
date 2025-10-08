@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/405817820237379123/bf7bbdd8ada34c9794f711b89c66fd68/artifacts
+end_time: 1759816955693
+entry_point_name: ''
+experiment_id: '405817820237379123'
+lifecycle_stage: active
+run_id: bf7bbdd8ada34c9794f711b89c66fd68
+run_name: Run_3_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759816931229
+status: 3
+tags: []
+user_id: DELL

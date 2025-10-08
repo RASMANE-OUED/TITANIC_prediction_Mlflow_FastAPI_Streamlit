@@ -1,0 +1,10 @@
+artifact_location: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/405817820237379123/models/m-dc52f209d59e4ca8b0840de31bae218f/artifacts
+creation_timestamp: 1759816925098
+experiment_id: '405817820237379123'
+last_updated_timestamp: 1759816931188
+model_id: m-dc52f209d59e4ca8b0840de31bae218f
+model_type: null
+name: model
+source_run_id: 40cfe9447b4d489db06fab2a94348d87
+status: 2
+status_message: null

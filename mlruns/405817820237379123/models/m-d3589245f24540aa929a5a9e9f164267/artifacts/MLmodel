@@ -1,0 +1,22 @@
+artifact_path: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/405817820237379123/models/m-d3589245f24540aa929a5a9e9f164267/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-d3589245f24540aa929a5a9e9f164267
+model_size_bytes: 773
+model_uuid: m-d3589245f24540aa929a5a9e9f164267
+prompts: null
+run_id: bf7bbdd8ada34c9794f711b89c66fd68
+utc_time_created: '2025-10-07 06:02:11.922106'

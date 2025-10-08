@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/COURS/DATASCIENCE/SECOND_SESSION/MACHINE_LEARNING_SUPERVISE/MLS_Projet/mlruns/405817820237379123/40cfe9447b4d489db06fab2a94348d87/artifacts
+end_time: 1759816931215
+entry_point_name: ''
+experiment_id: '405817820237379123'
+lifecycle_stage: active
+run_id: 40cfe9447b4d489db06fab2a94348d87
+run_name: Run_2_RandomForest_Optimized
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759816923907
+status: 3
+tags: []
+user_id: DELL
